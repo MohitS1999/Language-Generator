@@ -28,4 +28,5 @@ AKTU Univerisity rollnumbers like ```1713310127 or 1713310110 ```
   - [x] chaining
   - [ ] Negation 
 
-NOTE: ```logical product``` is not applicable in a linear single chain, like in string generation
+NOTE: 
+     ```logical product``` is not applicable in a linear single chain, like in string generation
